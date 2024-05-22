@@ -11,6 +11,7 @@
         "Tools": ["GIT", "GitHub", "Jupyter Notebook"],
         "misc": ["Firebase", "SCRUM", "SOLID", "GNU/Linux 🐧", "NeoVim"]
     },
-    "Architecture": [ "DDD", "TDD", "MVC", "Microservices", "Serverless" ]
+    "Architecture": [ "DDD", "TDD", "MVC", "Microservices", "Serverless" ],
+    "Languajes":["Spanish", "Italian", "English"]
 }
 ```
